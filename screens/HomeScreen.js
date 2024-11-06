@@ -44,7 +44,7 @@ const HomeScreen = ({ navigation }) => {
 
   return (
     <ImageBackground
-      source={{ uri: 'https://mdbootstrap.com/img/Photos/Horizontal/Nature/6-col/img%20(122).jpg' }}
+      source={{ uri: 'https://i.pinimg.com/736x/a9/1f/f4/a91ff4d289c15e9fb5c58e498f07fd10.jpg' }}
       style={styles.backgroundImage}
     >
       <View style={styles.mask}>
